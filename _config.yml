@@ -1,0 +1,28 @@
+name: "Stupid Stuff I've Bought"
+favicon: null
+layout_spectrum: 0.6945785854477435
+typography_spectrum: 0.1827655511442572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.255020190263167
+  lightness: 0.06343544460833073
+  saturation: 0.727242402266711
+  rhythmicContrast: 0.04442817810922861
+purpose: []
